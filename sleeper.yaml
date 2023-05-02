@@ -1119,7 +1119,7 @@ spec:
 #          nodeTaintsPolicy: string
 #          topologyKey: string
 #          whenUnsatisfiable: string
-  replicas: 2
+  replicas: 1
 #  minReadySeconds: int
 #  paused: boolean
 #  progressDeadlineSeconds: int
